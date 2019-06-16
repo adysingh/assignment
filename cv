@@ -1,0 +1,129 @@
+<html> 
+    <body>
+        <h1 align="center"><b>ADITYA SINGH</b></h1>
+        <h2><b>8929087125</b></h2>
+        <h2 align="right"><b>adysingh7151@gmail.com</b></h2>
+        <h2><b>2k18/b3/402</b></h2>
+        <br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>EDUCATION</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <table border="1" align="center">
+            <tr>
+                <td>SOFTWARE ENGINEERING</td>
+                <td>2018-2022</td>
+                <td>DELHI TECHNOLOGICAL UNIVERSITY</td>
+                <td>8.7cgpa</td>
+            </tr>
+            <tr>
+                <td>CBSE(CLASS XII></td>
+                <td>2017</td>
+                <td>BALDWIN ACADEMY,PATNA</td>
+                <td>84%</td>
+            </tr>
+            <tr>
+                <td>AISCE(CLASS X)</td>
+                <td>2015</td>
+                <td>ST. PAUL'S HIGH SCHOOL,PATNA</td>
+                <td>86%</td>
+            </tr>       
+        </table>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>INTERNSHIP'S</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <p align="center">Summer Intern,<b>COMPANY X</b>.,City X
+        <br>Company X - one line description</p>
+        <ul align="center">
+            <li>What was the key role you play - one line</li>
+            <ul>
+                <li>What was the key impact of this role</li>
+            </ul>
+        </ul>
+        <ul align="center">
+           <li>What other role did you play</li>
+           <ul>
+               <li >What impact did this role have</li>
+           </ul>
+        </ul>
+        <p align="center">Professional Recognition</p>
+        <ul align="center"><li>Recognition recieved for your work / project</li></ul>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>ACADEMIC PROJECTS</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <ul align="center"><li>Brief description of the project; what was your role if multi-member team;what was
+            the end-result of doing this project.
+        </li></ul>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>ACADEMIC ACHIEVEMNTS AND AWARDS</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <ul align="center">
+            <li>Awarded the <b>scholarship</b> by the XYZ for excellence in xyz</li>
+            <li>Awarded XYZ award for excellence in xyz by xyz, year X</li>
+            <li>Other academic awards</li>
+        </ul>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>POSITION OF RESPONSIBILITY</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <ul align="center">
+            <li>As Coordinator (Event X) for ABC Year X- all India inter-collegiate cultural festival</li>
+            <ul align="center">
+                <li>What was your role in the position</li>
+                <li>Did you achieve any recognition for your role</li>
+            </ul>
+        </ul>
+        <ul align="center">
+            <li><b>xyz</b>, the student post of the resident/scoiety (n+ inmates)</li>
+            <ul align="center">
+                <li>What was your role in this position</li>
+                <li>Did you achieve any recognition for your role</li>
+            </ul>
+        </ul>
+        <ul align="center"><li>Other positions of responsibility.</li></ul>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>EXTRA-CURRICULAR ACTIVITIES AND ACHIEVEMENTS</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <ul align="center">
+            <li>Won X & X awards in Y club / society, year X</li>
+            <li>Member of XYZ sports team for college / resident & won X medal in X tournament, year X</li>
+            <li>Other free time intrests</li>
+        </ul>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>OTHER INFORMATION</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <ul align="center"><li>Other information</li></ul>
+        <br><br>
+        <table border="2" align="center">
+            <thead>
+                <td><h1><b>DECLARATION</b></h1></td>
+            </thead>
+        </table>
+        <br>
+        <P align="center">I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief </P>
+    </body>
+</html>
